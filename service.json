@@ -12,5 +12,19 @@
         "soon": false,
         "update": false,
         "tex": false
+    },
+    {
+        "id": 2,
+        "pon": "Install",
+        "title": "Y** M**",
+        "description": "6.45",
+        "serveraxyet": "apple-magnifier://install?url=",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-FAO9R38cYTaOizExzrqYQQ4C506bjhvXA&usqp=CAU",
+        "completed": false,
+        "beta": true,
+        "new": false,
+        "soon": true,
+        "update": true,
+        "tex": false
     }
 ]
